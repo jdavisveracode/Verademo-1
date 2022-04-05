@@ -42,7 +42,7 @@ public class User implements Serializable {
 		this.blabName = blabName;
 		this.realName = realName;
 	}
-
+    /* add comment*/
 	public String getUserName()
 	{
 		return userName;
